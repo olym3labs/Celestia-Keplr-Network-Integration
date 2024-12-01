@@ -1,0 +1,16 @@
+/* App.css */
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Chiều cao toàn màn hình */
+  text-align: center; /* Căn giữa văn bản */
+  background-color: #f5f5f5; /* Màu nền (tuỳ chọn) */
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+  color: #333;
+}
